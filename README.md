@@ -5,7 +5,7 @@
   - `pip3 install numpy`
 - tqdm
   - `pip3 install tqdm`
-  - 
+   
 ## Datasets
 - [TNO](http://figshare.com/articles/TNOImageFusionDataset/1008029)
 - [RoadScene](https://github.com/hanna-xu/RoadScene)
